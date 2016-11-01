@@ -1,0 +1,32 @@
+.bg-1{
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+.bg-2{
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+
+
+#box{
+    border: 5px solid;
+    padding: 20px;
+    width: 300px;
+    resize: horizontal;
+    overflow: auto;
+    margin:auto;
+
+}
+
+#box2{
+    border: 5px solid;
+    padding: 20px;
+    width: 300px;
+    resize: both;;
+    overflow: auto;
+    margin: auto;
+    text-align: center;
+
+}
